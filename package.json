@@ -1,9 +1,9 @@
 {
-  "name": "Discord-Bot-Maker-Bot",
-  "author": "Robert Borghese",
+  "name": "Discord-Anti-Cheat",
+  "author": "JoeCooper",
   "main": "bot.js",
   "scripts": {
-  "start": "node server.js"
+  "start": "node bot.js"
 }
   "version": "1.2.9",
   "dependencies": {
